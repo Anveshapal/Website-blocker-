@@ -1,25 +1,48 @@
-Study Session Blocker 🚀
+##Study Session Blocker 
 
 A simple website blocker app designed to help you stay focused by temporarily restricting distracting websites while studying. Built with Python and Tkinter, this tool ensures you maintain concentration during study sessions and rewards you with motivational messages when you complete them!
 
-Features ✨
+##Features ✨
 
 Blocks distracting websites during study sessions
-
 Automatically unblocks them after the session ends
-
 Provides motivational rewards to keep you going
-
 User-friendly interface with Tkinter
-
 Works on Windows by modifying the hosts file
 
-How It Works 🛠
+##How It Works 
 
 Enter your study session duration in minutes.
-
 Click start, and the selected websites will be blocked.
-
 Study distraction-free until the timer runs out.
-
 Once the session ends, the websites are unblocked, and you receive a motivational message.
+
+
+##Requirements 
+
+Python 3.x
+Windows OS (modifies hosts file)
+Administrator privileges (for editing hosts file)
+
+
+##Notes ⚠
+
+This tool modifies the Windows hosts file to block websites. Make sure you run the script as an administrator.
+If you face issues, manually check the hosts file at:
+C:\Windows\System32\drivers\etc\hosts
+
+If you need to unblock websites manually, open the hosts file and remove any lines added by the script.
+
+##Contribution 🤝
+Feel free to contribute! Open a pull request if you have ideas for improvements.
+
+##License 
+
+This project is open-source and available under the MIT License.
+Happy studying! 🎯
+
+
+
+
+
+
