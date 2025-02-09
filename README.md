@@ -1,4 +1,4 @@
-##Study Session Blocker 
+##"Study Session Blocker" 
 
 A simple website blocker app designed to help you stay focused by temporarily restricting distracting websites while studying. Built with Python and Tkinter, this tool ensures you maintain concentration during study sessions and rewards you with motivational messages when you complete them!
 
