@@ -27,7 +27,7 @@ A simple website blocker app designed to help you stay focused by temporarily re
 
 1. Clone the repository:
    ```bash
-   ttps://github.com/Anveshapal/Website-blocker-.git
+   https://github.com/Anveshapal/Website-blocker-.git
   
 ## Notes 
 
