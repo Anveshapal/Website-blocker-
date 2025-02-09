@@ -4,28 +4,33 @@ A simple website blocker app designed to help you stay focused by temporarily re
 
 ##Features ✨
 
-Blocks distracting websites during study sessions
-Automatically unblocks them after the session ends
-Provides motivational rewards to keep you going
-User-friendly interface with Tkinter
-Works on Windows by modifying the hosts file
+1.Blocks distracting websites during study sessions
+2.Automatically unblocks them after the session ends
+3.Provides motivational rewards to keep you going
+4.User-friendly interface with Tkinter
+5.Works on Windows by modifying the hosts file
 
 ##How It Works 
 
-Enter your study session duration in minutes.
-Click start, and the selected websites will be blocked.
-Study distraction-free until the timer runs out.
-Once the session ends, the websites are unblocked, and you receive a motivational message.
+1.Enter your study session duration in minutes.
+2.Click start, and the selected websites will be blocked.
+3.Study distraction-free until the timer runs out.
+4.Once the session ends, the websites are unblocked, and you receive a motivational message.
 
 
 ##Requirements 
 
-Python 3.x
-Windows OS (modifies hosts file)
-Administrator privileges (for editing hosts file)
+1.Python 3.x
+2.Windows OS (modifies hosts file)
+3.Administrator privileges (for editing hosts file)
 
+##Installation
 
-##Notes ⚠
+https://github.com/Anveshapal/Website-blocker-.git
+Install dependencies:
+pip install tkinter
+
+##Notes 
 
 This tool modifies the Windows hosts file to block websites. Make sure you run the script as an administrator.
 If you face issues, manually check the hosts file at:
@@ -33,7 +38,7 @@ C:\Windows\System32\drivers\etc\hosts
 
 If you need to unblock websites manually, open the hosts file and remove any lines added by the script.
 
-##Contribution 🤝
+##Contribution:- 
 Feel free to contribute! Open a pull request if you have ideas for improvements.
 
 ##License 
